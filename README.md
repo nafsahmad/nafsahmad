@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nafs Ahmad
-- 👀 I’m interested in Data Science and Software Development
+- 👀 I’m interested in Data Science and Analysis
 - 💞️ I’m looking to collaborate on projects
 - 📫 You can reach me on nafsahmad@gmail.com
 
