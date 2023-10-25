@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nafs Ahmad
 - 👀 I’m interested in Data Science and Analysis
 - 💞️ I’m looking to collaborate on projects
-- 📫 You can reach me on nafsahmad@gmail.com
+- 📫 You can reach me @nafsahmad@gmail.com
 
 <!---
 nafsahmad/nafsahmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
